@@ -47,7 +47,7 @@ export default function Home() {
               Milena,
             </span>
             <span className="block text-2xl md:text-3xl lg:text-4xl font-semibold bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-              pick our destiny 💫
+              pick your destiny 💫
             </span>
           </h1>
 
